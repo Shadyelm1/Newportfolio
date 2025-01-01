@@ -6,19 +6,21 @@ export const DATA = {
   initials: "AE",
   location: "Springfield, VA",
   description:
-    "Future Software Engineer . I love learning new things and devloping myself. I learning and building things that will help others!",
+    "Future Software Engineer . I love learning new things also developing myself. I learning and building things that will help others!",
   summary:
     "Sophomore computer science major with strong software engineering experience, specializing in full-stack development and AI integration. Developed a full-stack brain tumor detection AI with real-time diagnostics and engineered a system to integrate AI-generated call summaries and next-best actions into enterprise platforms, showcasing advanced problem-solving and scalable solution design.",
   avatarUrl: "/me.png",
   skills: [
+    "Python",
+    "Javascript",
+    "Java",
     "React",
     "Next.js",
     "Typescript",
     "Node.js",
-    "Python",
     "Postgres",
     "Docker",
-    "Java",
+    "SQL",
     "C#",
   ],
   navbar: [
